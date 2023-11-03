@@ -1,4 +1,4 @@
-]# ComputeGPT
+# ComputeGPT
 ### Welcome to ComputeBot - Your Computational Companion.
 
 ComputeBot is your one-stop solution for accurate and efficient mathematical problem-solving, powered by advanced LLM technology.
