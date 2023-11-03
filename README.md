@@ -25,7 +25,7 @@ At ComputeBot, our mission is to simplify complex mathematical problem-solving f
 
 Deploy your own Create React App project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+[![ComputeGPT](https://vercel.com/button)](https://computegpt.vercel.app/)
 
 _Live Example: https://create-react-template.vercel.app/_
 
