@@ -1,4 +1,4 @@
-[![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png){width=100%}](https://computegpt.vercel.app/)
+[![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png){width=100px}](https://computegpt.vercel.app/)
 # ComputeGPT
 ### Welcome to ComputeBot - Your Computational Companion.
 
