@@ -21,12 +21,11 @@ At ComputeBot, our mission is to simplify complex mathematical problem-solving f
 - Conversation Bot:
   > Engage in a seamless conversation with ComputeBot. Enjoy a continuous interaction experience as ComputeBot comprehends and responds to your queries in a natural, conversational manner.
 
-## Deploy Your Own
+## Visit Live Site
 
-Deploy your own Create React App project with Vercel.
+ComputeGPT is hosted using Vercel.
 
-[![ComputeGPT](https://vercel.com/button)](https://computegpt.vercel.app/)
-
+[![ComputeGPT](https://vercel.com/button)
 _Live Example: https://create-react-template.vercel.app/_
 
 ## Available Scripts
