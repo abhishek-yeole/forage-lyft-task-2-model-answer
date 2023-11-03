@@ -30,21 +30,23 @@ _[ComputeGPT](https://computegpt.vercel.app/)_
 
 
 
-## Run it locally
+## Run it locally using your own Wolfram | Alpha Keys
 
 In the project directory, you can run:
+### `python -m venv c:\path\to\project`
+Setups the virtual Environment to start the runtime.
 
-### `npm init`
+### `pip install -r requirements.txt`
 
 Installs the required the libraries on the local machine. Also install required libraries if not installed use:
 
-- Install force library: `npm install force`
-- Install pakages with conflicting dependencies using force: `npm install package_install_name --force`
+> **NOTE:** Python version must be higher than 3.9. The project was developed on 3.11 python version.
 
-> **NOTE**: Do not use npm: `--legacy-peer-deps` library. It will break down Spline runtime and Spline react-spline libraries causing error.
+### Use your own keys to run the API's
 
-### `npm start`
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `flask --app main run --host 0.0.0.0`
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+Runs the app in the development mode. Open [http://127.0.0.1:5000](http://127.0.0.1:5000) to view it in your browser.
+
+> **NOTE:** These are the API's endpoints that are developed. If you want to test the API's you can either change the config.jsx api Url's with `http://your-ip-address:5000/...` in the frontend of [https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx](https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx) or use POSTMAN or other services for it.
