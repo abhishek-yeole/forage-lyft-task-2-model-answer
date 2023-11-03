@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png" alt="ComputeGPT" style="width:300%; height:auto;">
-[![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png)](https://computegpt.vercel.app/)
+[![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png){width=100%}](https://computegpt.vercel.app/)
 # ComputeGPT
 ### Welcome to ComputeBot - Your Computational Companion.
 
