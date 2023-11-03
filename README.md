@@ -39,7 +39,8 @@ Installs the required the libraries on the local machine. Also install required 
 
 - Install force library: `npm install force`
 - Install pakages with conflicting dependencies using force: `npm install package_install_name --force`
-- > **NOTE**: Do not use npm: `--legacy-peer-deps` library. It will break down Spline runtime and Spline react-spline libraries causing error.
+
+> **NOTE**: Do not use npm: `--legacy-peer-deps` library. It will break down Spline runtime and Spline react-spline libraries causing error.
 
 ### `npm start`
 
