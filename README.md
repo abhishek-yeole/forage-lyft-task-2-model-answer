@@ -25,7 +25,7 @@ At ComputeBot, our mission is to simplify complex mathematical problem-solving f
 
 ComputeGPT is hosted using Vercel.
 
-[![ComputeGPT](https://computegpt.vercel.app/)
+[![ComputeGPT](https://computegpt.vercel.app/)]
 _Live Example: https://create-react-template.vercel.app/_
 
 ## Available Scripts
