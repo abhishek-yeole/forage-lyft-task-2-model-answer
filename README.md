@@ -78,7 +78,7 @@ Explore the magic behind CrickTech in three simple steps:
 ### Features
 
 - Chatrooms (Public and Private) with Live Streaming:
-  
+  [![CrickTech](https://lh3.google.com/u/0/d/1XEXpiMBEfMFLcsaTmy2yqL0OkL9OeNJX=w2000-h4094-iv1)](https://cricktech.vercel.app/)
   > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
 
 -  Score Predictor for T20 and ICC Matches:
