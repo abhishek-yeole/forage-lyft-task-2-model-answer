@@ -59,7 +59,7 @@ Runs the app in the development mode. Open [http://127.0.0.1:5000](http://127.0.
 
 
 
-[![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.9cd8bd87714b03bbfd64.png)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBDhEgaoXFnkOTAX5u1kFLFqY_2TdUSCqBaRO93t7MnPnaf8884wY3bflbJLCX5PkWdWMSHXt4yi4ENBQcIp8POMm7rCA=w1960-h2684)](https://cricktech.vercel.app/)
 # CrickTech
 ### Welcome to ComputeBot - Revolutionizing Your Cricket Experience.
 
@@ -78,6 +78,7 @@ Explore the magic behind CrickTech in three simple steps:
 ### Features
 
 - Chatrooms (Public and Private) with Live Streaming:
+  
   > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
 
 -  Score Predictor for T20 and ICC Matches:
