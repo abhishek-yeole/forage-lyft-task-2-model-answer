@@ -1,36 +1,42 @@
-[![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png)](https://computegpt.vercel.app/)
-# ComputeGPT
-### Welcome to ComputeBot - Your Computational Companion.
+[![ComputeGPT](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.9cd8bd87714b03bbfd64.png)](https://cricktech.vercel.app/)
+# CrickTech
+### Welcome to ComputeBot - Revolutionizing Your Cricket Experience.
 
-ComputeBot is your one-stop solution for accurate and efficient mathematical problem-solving, powered by advanced LLM technology.
+Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
 
 ### Our Mission
 
-At ComputeBot, our mission is to simplify complex mathematical problem-solving for users worldwide. We strive to provide a seamless and intuitive experience, enabling users to solve intricate computations effortlessly.
+At CrickTech, our mission is to redefine the way cricket enthusiasts engage with the sport. We strive to enhance your cricket experience through state-of-the-art technology, providing a platform that caters to both casual fans and die-hard enthusiasts.
+
+### Working
+Explore the magic behind CrickTech in three simple steps:
+- Sign Up: Create your personalized account and join a vibrant community of cricket enthusiasts.
+- Dive In: Immerse yourself in live streaming chatrooms, real-time match updates, and predictive analysis.
+- Experience Cricket Like Never Before: Engage, predict, and celebrate the game with fellow fans.
 
 ### Features
 
-- Step by step solution to Math-related problems:
-  > ComputeBot offers a step-by-step breakdown of even the most intricate mathematical problems, ensuring a comprehensive understanding of the solution process.
+- Chatrooms (Public and Private) with Live Streaming:
+  > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
 
-- LLM powered solutions:
-  > Empowered by the latest in Language Model technology, ComputeBot provides highly accurate and reliable solutions to a diverse range of computational challenges.
+-  Score Predictor for T20 and ICC Matches:
+  > Test your cricket instincts with our Score Predictor feature. Predict the outcomes of T20 and ICC matches, challenge your friends, and climb the leaderboard. The excitement of the game is now in your hands.
 
-- Speech/Voice interface:
-  > Interact with ComputeBot effortlessly using our intuitive voice interface. Ask complex math queries verbally and receive immediate, accurate responses.
+- Player Performance Analysis:
+  > Go beyond the scoreboard. Dive into in-depth player performance analysis, stats, and insights. CrickTech provides a comprehensive view of player achievements, allowing you to appreciate the skills that shape the game.
 
-- Conversation Bot:
-  > Engage in a seamless conversation with ComputeBot. Enjoy a continuous interaction experience as ComputeBot comprehends and responds to your queries in a natural, conversational manner.
+- Matches Info:
+  > Stay informed with up-to-the-minute match information. From schedules to results, CrickTech keeps you in the loop, ensuring you never miss a crucial moment. Explore fixtures, track scores, and relish the magic of cricket unfolding in real-time.
 
 ## Visit Live Site
 
-ComputeGPT is hosted using Vercel.
+CrickTech is hosted using Vercel.
 
-_[ComputeGPT](https://computegpt.vercel.app/)_
+_[CrickTech](https://cricktech.vercel.app/)_
 
 
 
-## Run it locally using your own Wolfram | Alpha Keys
+## Run it locally
 
 In the project directory, you can run:
 ### `python -m venv c:\path\to\project`
