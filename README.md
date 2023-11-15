@@ -57,12 +57,13 @@ Runs the app in the development mode. Open [http://127.0.0.1:5000](http://127.0.
 > **NOTE:** These are the API's endpoints that are developed. If you want to test the API's you can either change the config.jsx api Url's with `http://your-ip-address:5000/...` in the frontend of [https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx](https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx) or use POSTMAN or other services for it.
 
 
-
-[![CrickTech](https://lh3.googleusercontent.com/fife/AK0iWDwtwXRKDWY9QmXn2LbzlauDUAWn30CVJIEoFS3EXlcI5uw6VLb3P4BgS7vZ3DzJ0PPKWTii7aayKM6roOh8cNsJL2N11JLwb_LhFtngL7oNGkeK375d4yKWQ7fp4ZaY8ymhr1shbVoPHVZyXI45PFU3PlA-rtloKDFG_dexMA1RYBaIq4poLriO4ps7Z4KXEkTrjuzxRJ97qS3DWoM1TFfBxYNbRINlGNwnqt8XYDxwe9s1aOf_M9nRJ4hngSTVW_JDPsm5-hzRohMzUW2TbNXfu0LRB9DDR7HrXZ60gM-vkQSs1k1kxfs2KX1Qq5-_LN2QFoDGSMhW3amokgESs1R1ampLqN4I5QPGtMvuAtfhCiDgQJ07grT8bCzDtguDXnSYZtkpSJBLkzkQNszoO8Am6_i1RaLIXDT_d4kiXAXjRTJTC_6NC2c-C4DqjB2oj-R8baQO70NfDBGLeARLMGd_XnZfjeKJCjXOcDuVpbHJLxgElnyQR8qBaoWwZ9UB24g_Qx0V02ZSfn4uZr51_bN28DIwlaGCxeGfG6EpAJZ0FAftx_W2j9tRkCC1olAVsAIlq45CXWT1WPuu8mVUBYiSkvXxij6nhiAkdy7J64tIQeX3Ngc-voXWV4IuaP5UPNk2J4R8TJyMkiYkPEZDu_oTzWkCVm2wmfYuxkt-23In34iRRdiBa02F36MgDTpgbUaJELtcio29QJdPiHeE3Z3UQuillebiwW-vpgjf7bYcdAOhcmyc77YG3DBUOs0LT9PHKlK9NG3uoH6xfwIfkUr0kSgvAFjsy-hgTMBrOeibY_hnUBr5iz7_6GhxcWgNONLhqZnpJeUUhmekrihBUkPdMgmUJxnx2eWJRRUcO-FL0IwcH7GhBE7hopNaupCqEGI5jJr-3KxWVI_VqHIZS0et7ZBo3iAujlydu1QX2NvAx5jd0xOvArXnntjLOBmOwD8XHXePRgL9aSEX--RtM5zSirZELAz-wUWrdRfezFBP9rYXTcdqGOVt-MXt1qj-AKE86bYxcJxenXGcxCRAnJSud1MOp96JErJxwrFaCs0fIs7SaVctSSsNGDM66xZ33Ub3gBRxfVv3TAegfInohPdMh51bC5S8RrGRpCazvPh4P_HX0FRv9kLwio2dNbMK8RezE3x2DOuz25UlA0zhcnH9XvLpXKD4iHZIPsEklS_dWAnvDCia8qODsvGdOK1ausFZtQ8GrhTDkk6UAfdmAaQqP513p_5E2MU7NQ-h1IKWj2-saq0CoH-lFtygs6BrQR-7q1bg7xx4UgIjFF91zyDvgicLXUR7K6d8pPo4DGWmk4WAFFW7rZkDFu8n5dxs0SDg57TzfiflrpswhzQOhbeelRLjt-GvVEO6_1WXjRddzm7UHu7KO9lc1VhE4MaBjC7xiJ-fDNcOZEswYs6tcnVVWUe_01yq5Ijlh5QC6eImPo8wsNZiEA9nLfiMjctLoTO4GfE2zHffK13GhiEuX23iKuHlRMymfbMSJo-l5vI-6BSA4bdei_27w7_hihuaZk2qsAo4hOo=w2000-h4094)](https://cricktech.vercel.app/)
+[![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.9cd8bd87714b03bbfd64.png)](https://cricktech.vercel.app/)
 # CrickTech
 ### Welcome to ComputeBot - Revolutionizing Your Cricket Experience.
 
 Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
+
+[![CrickTech](https://lh3.googleusercontent.com/fife/AK0iWDwtwXRKDWY9QmXn2LbzlauDUAWn30CVJIEoFS3EXlcI5uw6VLb3P4BgS7vZ3DzJ0PPKWTii7aayKM6roOh8cNsJL2N11JLwb_LhFtngL7oNGkeK375d4yKWQ7fp4ZaY8ymhr1shbVoPHVZyXI45PFU3PlA-rtloKDFG_dexMA1RYBaIq4poLriO4ps7Z4KXEkTrjuzxRJ97qS3DWoM1TFfBxYNbRINlGNwnqt8XYDxwe9s1aOf_M9nRJ4hngSTVW_JDPsm5-hzRohMzUW2TbNXfu0LRB9DDR7HrXZ60gM-vkQSs1k1kxfs2KX1Qq5-_LN2QFoDGSMhW3amokgESs1R1ampLqN4I5QPGtMvuAtfhCiDgQJ07grT8bCzDtguDXnSYZtkpSJBLkzkQNszoO8Am6_i1RaLIXDT_d4kiXAXjRTJTC_6NC2c-C4DqjB2oj-R8baQO70NfDBGLeARLMGd_XnZfjeKJCjXOcDuVpbHJLxgElnyQR8qBaoWwZ9UB24g_Qx0V02ZSfn4uZr51_bN28DIwlaGCxeGfG6EpAJZ0FAftx_W2j9tRkCC1olAVsAIlq45CXWT1WPuu8mVUBYiSkvXxij6nhiAkdy7J64tIQeX3Ngc-voXWV4IuaP5UPNk2J4R8TJyMkiYkPEZDu_oTzWkCVm2wmfYuxkt-23In34iRRdiBa02F36MgDTpgbUaJELtcio29QJdPiHeE3Z3UQuillebiwW-vpgjf7bYcdAOhcmyc77YG3DBUOs0LT9PHKlK9NG3uoH6xfwIfkUr0kSgvAFjsy-hgTMBrOeibY_hnUBr5iz7_6GhxcWgNONLhqZnpJeUUhmekrihBUkPdMgmUJxnx2eWJRRUcO-FL0IwcH7GhBE7hopNaupCqEGI5jJr-3KxWVI_VqHIZS0et7ZBo3iAujlydu1QX2NvAx5jd0xOvArXnntjLOBmOwD8XHXePRgL9aSEX--RtM5zSirZELAz-wUWrdRfezFBP9rYXTcdqGOVt-MXt1qj-AKE86bYxcJxenXGcxCRAnJSud1MOp96JErJxwrFaCs0fIs7SaVctSSsNGDM66xZ33Ub3gBRxfVv3TAegfInohPdMh51bC5S8RrGRpCazvPh4P_HX0FRv9kLwio2dNbMK8RezE3x2DOuz25UlA0zhcnH9XvLpXKD4iHZIPsEklS_dWAnvDCia8qODsvGdOK1ausFZtQ8GrhTDkk6UAfdmAaQqP513p_5E2MU7NQ-h1IKWj2-saq0CoH-lFtygs6BrQR-7q1bg7xx4UgIjFF91zyDvgicLXUR7K6d8pPo4DGWmk4WAFFW7rZkDFu8n5dxs0SDg57TzfiflrpswhzQOhbeelRLjt-GvVEO6_1WXjRddzm7UHu7KO9lc1VhE4MaBjC7xiJ-fDNcOZEswYs6tcnVVWUe_01yq5Ijlh5QC6eImPo8wsNZiEA9nLfiMjctLoTO4GfE2zHffK13GhiEuX23iKuHlRMymfbMSJo-l5vI-6BSA4bdei_27w7_hihuaZk2qsAo4hOo=w2000-h4094)](https://cricktech.vercel.app/)
 
 ### Our Mission
 
@@ -78,8 +79,8 @@ Explore the magic behind CrickTech in three simple steps:
 1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
 
 ## Backend
-1. Simple API's: login, register,forgot, checklogin, etc. where developed using Flask and is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktechapi](https://github.com/abhishek-yeole/cricktechapi)
-2. Streaming API's: Room Chat, Group Chat, Polls, etc. where developed using Flask and is deployed on 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/cricktechstreamapi](https://huggingface.co/spaces/abhicodes/cricktechstreamapi)
+1. Simple API's: login, register,forgot, checklogin, etc. where developed using Flask and is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktechapi](https://github.com/abhishek-yeole/cricktechapi)_
+2. Streaming API's: Room Chat, Group Chat, Polls, etc. where developed using Flask and is deployed on 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/cricktechstreamapi](https://huggingface.co/spaces/abhicodes/cricktechstreamapi)_
 
 ## Machin Learning Models
 1. T20i Cricket Score Predictor:
