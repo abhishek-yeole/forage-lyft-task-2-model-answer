@@ -18,16 +18,16 @@ Explore the magic behind CrickTech in three simple steps:
 
 ## Frontend
 1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
-2. Developement Tech Stack:**
+2. **Developement Tech Stack:**
    - React JS
    - Material UI
    - Spline 3D
    - Framer Motion
 
 ## Backend
-**1. Simple API's:** login, register,forgot, checklogin, etc. where developed using Flask and is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktechapi](https://github.com/abhishek-yeole/cricktechapi)_
-**2. Streaming API's:** Room Chat, Group Chat, Polls, etc. where developed using Flask and is deployed on 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/cricktechstreamapi](https://huggingface.co/spaces/abhicodes/cricktechstreamapi)_
-**3. Developement Tech Stack:**
+1. **Simple API's:** login, register,forgot, checklogin, etc. where developed using Flask and is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktechapi](https://github.com/abhishek-yeole/cricktechapi)_
+2. **Streaming API's:** Room Chat, Group Chat, Polls, etc. where developed using Flask and is deployed on 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/cricktechstreamapi](https://huggingface.co/spaces/abhicodes/cricktechstreamapi)_
+3. **Developement Tech Stack:**
    - Python Flask
    - 🤗 Hugging Face Spaces
    - Docker
