@@ -50,9 +50,9 @@ Explore the magic behind CrickTech in three simple steps:
 
 ## **System Architecture:**
 1. **Routes Architecture:**
-   [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)]
+   ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaC0_2KsptcFAhogwONph4iLU6KfiaMravGDtRo1bum-tyzL4WKPAv4b7APJ5KNxedKJb1_qYeGwu_YZTHU7EbAPjF3x=w9186-h10986)
 2. **API Architecture:**
-   [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)]
+   ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCcNq1exlmWGU229fiu68DIENmadIcx1mTa85WWbMfWjM8LO2-zaCxqSSHiBXnj9jMMCacB9X7-UE9P3pE0TWfzCxZljg=w1607-h4012)
 
 ### Features
 
