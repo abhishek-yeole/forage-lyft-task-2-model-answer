@@ -57,7 +57,7 @@ Runs the app in the development mode. Open [http://127.0.0.1:5000](http://127.0.
 > **NOTE:** These are the API's endpoints that are developed. If you want to test the API's you can either change the config.jsx api Url's with `http://your-ip-address:5000/...` in the frontend of [https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx](https://github.com/abhishek-yeole/computegpt/blob/main/src/config.jsx) or use POSTMAN or other services for it.
 
 
-[![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.9cd8bd87714b03bbfd64.png)](https://cricktech.vercel.app/)
+[![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.b109c5d8d6d88f54cabe.png)](https://cricktech.vercel.app/)
 # CrickTech
 ### Welcome to ComputeBot - Revolutionizing Your Cricket Experience.
 
