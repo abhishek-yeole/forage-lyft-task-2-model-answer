@@ -48,17 +48,23 @@ Explore the magic behind CrickTech in three simple steps:
    - **Deployed Interface -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis](https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis)_
    - Developed and Interface using **Gradio**
 
+## **System Architecture:**
+1. **Routes Architecture:**
+   [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)]
+2. **API Architecture:**
+   [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)]
+
 ### Features
 
 - Chatrooms (Public and Private) with Live Streaming:
   > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
-  [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)](https://cricktech.vercel.app/)
-  [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCl5i_ggTc3xLMdwOvVd9c74v4hmTPxCXhPEZN_pKA4TsqsVcqeqRKwLjwluhdU1FKBOeHAZdE5Gy8UklRPEvdrjeasng=w1960-h4012)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCl5i_ggTc3xLMdwOvVd9c74v4hmTPxCXhPEZN_pKA4TsqsVcqeqRKwLjwluhdU1FKBOeHAZdE5Gy8UklRPEvdrjeasng=w1960-h4012)](https://cricktech.vercel.app/)
 
 -  Score Predictor for T20 and ICC Matches:
    > Test your cricket instincts with our Score Predictor feature. Predict the outcomes of T20 and ICC matches, challenge your friends, and climb the leaderboard. The excitement of the game is now in your hands.
-     [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDrE7jLM1XTZfrMSDU_vtCusxnxBSJ7evOg7cbb1I8_3fFSUJ26e83d9FiCvgz3zF7OGoEZLejDyvIcu6kkqjQXeV868Q=w1960-h4012)](https://cricktech.vercel.app/)
-       [![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCDMSBSf2vju8R4_vSdY_ulQohnHB_biqjPEFeqY8rjK6W1F7rPnfNUdu7uxYRWAxgVD4daI0fISVBvig6JoaURARxaag=w1960-h4012)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDrE7jLM1XTZfrMSDU_vtCusxnxBSJ7evOg7cbb1I8_3fFSUJ26e83d9FiCvgz3zF7OGoEZLejDyvIcu6kkqjQXeV868Q=w1960-h4012)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCDMSBSf2vju8R4_vSdY_ulQohnHB_biqjPEFeqY8rjK6W1F7rPnfNUdu7uxYRWAxgVD4daI0fISVBvig6JoaURARxaag=w1960-h4012)](https://cricktech.vercel.app/)
 
 - Player Performance Analysis:
   > Go beyond the scoreboard. Dive into in-depth player performance analysis, stats, and insights. CrickTech provides a comprehensive view of player achievements, allowing you to appreciate the skills that shape the game.
