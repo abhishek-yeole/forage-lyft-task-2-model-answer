@@ -37,15 +37,15 @@ Explore the magic behind CrickTech in three simple steps:
 1. **T20i Cricket Score Predictor:**
    - **Deployed Model -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/T20i-cricket-score-predictor](https://huggingface.co/spaces/abhicodes/T20i-cricket-score-predictor)_
    - **Developed using Jupyter lab -**
-     **a. Google Collab .ipynb file:** _[https://colab.research.google.com/drive/1mqtLjarfVQTXwiMyerHH0fLWp6K2eta9?usp=sharing](https://colab.research.google.com/drive/1mqtLjarfVQTXwiMyerHH0fLWp6K2eta9?usp=sharing)_
-     **b. Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor](https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor)_
+     a. **Google Collab .ipynb file:** _[https://colab.research.google.com/drive/1mqtLjarfVQTXwiMyerHH0fLWp6K2eta9?usp=sharing](https://colab.research.google.com/drive/1mqtLjarfVQTXwiMyerHH0fLWp6K2eta9?usp=sharing)_
+     b. **Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor](https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor)_
    - Interface using **Gradio**
 
 2. **ICC World Cup Score Predictor:**
    - **Deployed Model -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/ICC-World-Cup-Score-Predictor](https://huggingface.co/spaces/abhicodes/ICC-World-Cup-Score-Predictor)_
    - **Developed using Jupyter lab -**
-     **a. Google Collab .ipynb file:** _[https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing](https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing)_
-     **b. Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/](https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/)_
+     a. **Google Collab .ipynb file:** _[https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing](https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing)_
+     b. **Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/](https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/)_
    - Interface using **Gradio**
 
 3. **Cricket Players Performance Analysis:**
