@@ -52,13 +52,15 @@ Explore the magic behind CrickTech in three simple steps:
    - **Deployed Interface -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis](https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis)_
    - Developed and Interface using **Gradio**
 
+
 ## **System Architecture:**
 1. **Routes Architecture:**
    ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAaR8Yi09_xZh9Eq3lNNMgZ2HgK0vPAkkegxsLsI2vRGDFOfgB5kQY6BbKQct1UX9jm7qnplkPiFGLb85evlbtfSaxE=w9186-h10986)
 2. **API Architecture:**
    ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCcNq1exlmWGU229fiu68DIENmadIcx1mTa85WWbMfWjM8LO2-zaCxqSSHiBXnj9jMMCacB9X7-UE9P3pE0TWfzCxZljg=w1607-h4012)
 
-### Features
+
+## Features
 
 - Chatrooms (Public and Private) with Live Streaming:
   > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
