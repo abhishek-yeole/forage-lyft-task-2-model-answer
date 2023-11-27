@@ -1,6 +1,6 @@
 [![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.b109c5d8d6d88f54cabe.png)](https://cricktech.vercel.app/)
 # CrickTech
-### Welcome to ComputeBot - Revolutionizing Your Cricket Experience.
+### Welcome to CrickTech - Revolutionizing Your Cricket Experience.
 
 Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
 
