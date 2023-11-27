@@ -16,7 +16,8 @@ Explore the magic behind CrickTech in three simple steps:
 - Dive In: Immerse yourself in live streaming chatrooms, real-time match updates, and predictive analysis.
 - Experience Cricket Like Never Before: Engage, predict, and celebrate the game with fellow fans.
 
-## **Youtube**
+## Youtube
+To see the Demo Video Working for the Project: _[https://www.youtube.com/watch?v=gTrvaIQp_sg](https://www.youtube.com/watch?v=gTrvaIQp_sg)_
 
 ## Frontend
 1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
@@ -54,6 +55,10 @@ Explore the magic behind CrickTech in three simple steps:
    - **Deployed Interface -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis](https://huggingface.co/spaces/abhicodes/Cricket-Performance-Analysis)_
    - Developed and Interface using **Gradio**
 
+## ChatBot LLM
+The ChatBot - CrickBot was built using a free GPT provider - _[gpt4free](https://pypi.org/project/gpt4free/0.0.2.6/)_
+   - The API endpoint for prompt engineering and user query was built using Flask.
+   - Then it is connected to the frontend ChatUI.
 
 ## **System Architecture:**
 1. **Routes Architecture:**
