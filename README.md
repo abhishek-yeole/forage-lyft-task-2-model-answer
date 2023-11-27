@@ -8,7 +8,7 @@ Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in
 
 ## Our Mission
 
-At CrickTech, our mission is to redefine the way cricket enthusiasts engage with the sport. We strive to enhance your cricket experience through state-of-the-art technology, providing a platform that caters to both casual fans and die-hard enthusiasts.
+At CrickTech, our mission is to redefine the way cricket enthusiasts engage with the sport. We strive to enhance your cricket experience through technology, providing a platform that caters to both casual fans and die-hard enthusiasts.
 
 ## Working
 Explore the magic behind CrickTech in three simple steps:
