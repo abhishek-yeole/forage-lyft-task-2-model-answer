@@ -17,7 +17,8 @@ Explore the magic behind CrickTech in three simple steps:
 - Experience Cricket Like Never Before: Engage, predict, and celebrate the game with fellow fans.
 
 ## Youtube
-To see the Demo Video Working for the Project: [![Youtube](https://img.youtube.com/vi/gTrvaIQp_sg/0.jpg)](https://www.youtube.com/watch?v=gTrvaIQp_sg)
+To see the Demo Video Working for the Project: 
+[![Youtube](https://img.youtube.com/vi/gTrvaIQp_sg/0.jpg)](https://www.youtube.com/watch?v=gTrvaIQp_sg)
 
 ## Frontend
 1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
