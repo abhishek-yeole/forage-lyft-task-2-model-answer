@@ -56,7 +56,7 @@ To see the Demo Video Working for the Project:
    - **Developed using Jupyter lab -**
      - **Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/](https://www.kaggle.com/code/abhisheky27/icc-world-cup-score-predictor/)_
      - **Google Collab .ipynb file:** _[https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing](https://colab.research.google.com/drive/13fBNphICHe4_ojK1DRiILgDOeyOcu8od?usp=sharing)_
-   - **Dataset:** _[https://www.kaggle.com/datasets/utkarshtomar736/odi-mens-cricket-match-data-2002-2023](https://www.kaggle.com/datasets/utkarshtomar736/odi-mens-cricket-match-data-2002-2023)
+   - **Dataset:** _[https://www.kaggle.com/datasets/utkarshtomar736/odi-mens-cricket-match-data-2002-2023](https://www.kaggle.com/datasets/utkarshtomar736/odi-mens-cricket-match-data-2002-2023)_
    - **Size of Model ~ 2.95 GB (Hashed)**
    - Interface using **Gradio**
 
