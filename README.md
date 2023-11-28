@@ -16,13 +16,15 @@ Explore the magic behind CrickTech in three simple steps:
 - Dive In: Immerse yourself in live streaming chatrooms, real-time match updates, and predictive analysis.
 - Experience Cricket Like Never Before: Engage, predict, and celebrate the game with fellow fans.
 
-## GeekforGeeks Article
-To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/5476378](https://write.geeksforgeeks.org/post/5476378)_
-
 ## Youtube
 To see the Demo Video Working for the Project:
 
 [![Youtube](https://img.youtube.com/vi/gTrvaIQp_sg/0.jpg)](https://www.youtube.com/watch?v=gTrvaIQp_sg)
+
+
+## GeekforGeeks Article
+To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/5476378](https://write.geeksforgeeks.org/post/5476378)_
+
 
 ## Frontend
 1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
