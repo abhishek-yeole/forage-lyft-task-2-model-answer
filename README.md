@@ -4,7 +4,7 @@
 
 Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
 
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://cricktech.vercel.app/)
+![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://cricktech.vercel.app/)
 
 ## Our Mission
 
