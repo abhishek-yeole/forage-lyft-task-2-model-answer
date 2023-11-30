@@ -4,7 +4,7 @@
 
 Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
 
-![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://cricktech.vercel.app/)
+[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://cricktech.vercel.app/)
 
 ## Our Mission
 
@@ -45,7 +45,7 @@ To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/
 ## Databases
 1. **MySQL:** For Simple API's MySQL database is used. Database is hosted on _[Freemysqlhosting](https://www.freemysqlhosting.net/)_ site which provides 5MB database.
    
-   [![Database](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBeBrg-Frgvg6BnuDwNfgsBhtL3u56ilsESkUp8r7fto7aLwSaC8jQY8ox50gDHRyhvojORhGpo8cFbgI39shHuZ761pw=w1920-h923)
+   ![Database](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBeBrg-Frgvg6BnuDwNfgsBhtL3u56ilsESkUp8r7fto7aLwSaC8jQY8ox50gDHRyhvojORhGpo8cFbgI39shHuZ761pw=w1920-h923)
 3. **Hugging Space Non-Persistent Database Storage:** For Streaming API's hugging face non persistent storage is used. It is integrated feature of Hugging Face Spaces.
 
 
