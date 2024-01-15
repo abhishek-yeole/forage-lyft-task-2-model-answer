@@ -1,42 +1,33 @@
-[![CrickTech](https://cricktech.vercel.app/static/media/Road_Sense-removebg-preview.b109c5d8d6d88f54cabe.png)](https://cricktech.vercel.app/)
-# CrickTech
-### Welcome to CrickTech - Revolutionizing Your Cricket Experience.
+[![HealthHub](https://healthhubs.vercel.app//static/media/Road_Sense-removebg-preview.b109c5d8d6d88f54cabe.png)](https://healthhubs.vercel.app//)
+# HealthHub
+### Welcome to HealthHub - Your Health. Your Hub. Your Journey.
 
-Welcome to CrickTech, where innovation meets cricket fandom. Immerse yourself in the thrilling world of cricket like never before.
+Welcome to HealthHub, a Comprehensive ecosystem for health and wellness. Embark on a journey towards a healthier, happier you. It consists of multiple features such as Machine learning Models for disease classification and detection, Happiness index survey, Health related reports with various calculators such as Body Mass Index (BMI), Body Fat, BMR, etc. Along with it it also consists of a HeathBot for specific diseases and a few suggestions for and lightening up mood of the user.
 
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://cricktech.vercel.app/)
-
-## Our Mission
-
-At CrickTech, our mission is to redefine the way cricket enthusiasts engage with the sports. We strive to enhance your cricket experience through technology, providing a platform that caters to both casual fans and die-hard enthusiasts.
-
-## Working
-Explore the magic behind CrickTech in three simple steps:
-- Sign Up: Create your personalized account and join a vibrant community of cricket enthusiasts.
-- Dive In: Immerse yourself in live streaming chatrooms, real-time match updates, and predictive analysis.
-- Experience Cricket Like Never Before: Engage, predict, and celebrate the game with fellow fans.
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDzb3Tq0LeMeKVqTdl9k_D8be6ouRxs_ferNbs0HQpWeLXO1xY-lj4xtHrCHvR0RbWQiIXvFJazo2DTMX7iFY3oUwRrEA=w1960-h4012)](https://healthhubs.vercel.app//)
 
 ## Youtube
 To see the Demo Video Working for the Project:
 
-[![Youtube](https://img.youtube.com/vi/gTrvaIQp_sg/0.jpg)](https://www.youtube.com/watch?v=gTrvaIQp_sg)
+[![Youtube](https://img.youtube.com/vi/QQBP-krwj4g/0.jpg)](https://www.youtube.com/watch?v=QQBP-krwj4g)
 
 
 ## GeekforGeeks Article
-To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/5476378](https://write.geeksforgeeks.org/post/5476378)_
+To know more refer to this GFG article - _[GFG Write Portal](https://write.geeksforgeeks.org/post/5589472)_
 
 
 ## Frontend
-1. Complete Frontend code is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktech](https://github.com/abhishek-yeole/cricktech)_
+1. Complete Frontend code is deployed on Vercel: _[Github - HealthHubs](https://github.com/abhishek-yeole/healthhubs)_
 2. **Developement Tech Stack:**
    - React JS
    - Material UI
-   - Spline 3D
+   - GSAP Animations
+   - React Charts
    - Framer Motion
 
 ## Backend
-1. **Simple API's:** login, register,forgot, checklogin, etc. where developed using Flask and is deployed on Vercel: _[https://github.com/abhishek-yeole/cricktechapi](https://github.com/abhishek-yeole/cricktechapi)_
-2. **Streaming API's:** Room Chat, Group Chat, Polls, etc. where developed using Flask and is deployed on 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/cricktechstreamapi](https://huggingface.co/spaces/abhicodes/cricktechstreamapi)_
+1. **Simple API's:** Calculators and Happy Index Survey API's where developed using Flask and is deployed on Vercel: _[Github - healthhubapi](https://github.com/abhishek-yeole/healthhubapi)_
+2. **ML API's:** Machine Learning Interface API where developed using Gradio and is deployed on 🤗 Hugging Face: _[HuggingFace - HealthHub](https://huggingface.co/spaces/abhicodes/healthapp)_
 3. **Developement Tech Stack:**
    - Python Flask
    - 🤗 Hugging Face Spaces
@@ -50,7 +41,7 @@ To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/
 
 
 ## Machin Learning Models
-1. **T20i Cricket Score Predictor:**
+1. **Alzheimer Classification and Detection:**
    - **Deployed Model -** 🤗 Hugging Face: _[https://huggingface.co/spaces/abhicodes/T20i-cricket-score-predictor](https://huggingface.co/spaces/abhicodes/T20i-cricket-score-predictor)_
    - **Developed using Jupyter lab -**
      - **Kaggle Notebook:** _[https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor](https://www.kaggle.com/code/abhisheky27/t20i-cricket-score-predictor)_
@@ -76,40 +67,40 @@ To know more refer to this GFG article - _[https://write.geeksforgeeks.org/post/
 ## ChatBot LLM
 The ChatBot - CrickBot was built using a free GPT provider - _[gpt4free](https://pypi.org/project/gpt4free/0.0.2.6/)_
    - The API endpoint for prompt engineering and user query was built using Flask.
-   - Then it is connected to the frontend ChatUI.
+   - Then it is connected to the frontend ChatUI by Gradio.
 
 ## **System Architecture:**
 1. **Routes Architecture:**
-   ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBhTOKQ2G7VzGU8tCPKPGFUQmc_Tez9oRbjDZfxHfFhm2m8WGfAhjd-5faqsjbPGcnuRs4XsAdEn0yoJkpylK6VXaFfkw=w8462-h10071)
+   ![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBhTOKQ2G7VzGU8tCPKPGFUQmc_Tez9oRbjDZfxHfFhm2m8WGfAhjd-5faqsjbPGcnuRs4XsAdEn0yoJkpylK6VXaFfkw=w8462-h10071)
 2. **API Architecture:**
-   ![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCcNq1exlmWGU229fiu68DIENmadIcx1mTa85WWbMfWjM8LO2-zaCxqSSHiBXnj9jMMCacB9X7-UE9P3pE0TWfzCxZljg=w1607-h4012)
+   ![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCcNq1exlmWGU229fiu68DIENmadIcx1mTa85WWbMfWjM8LO2-zaCxqSSHiBXnj9jMMCacB9X7-UE9P3pE0TWfzCxZljg=w1607-h4012)
 
 
 ## Features
 
-- Chatrooms (Public and Private) with Live Streaming:
-  > Join the conversation in our dynamic chatrooms, where cricket fans unite. Discuss live matches, share insights, and enjoy the thrill together. With live streaming integrated, the action is just a click away.
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)](https://cricktech.vercel.app/)
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCl5i_ggTc3xLMdwOvVd9c74v4hmTPxCXhPEZN_pKA4TsqsVcqeqRKwLjwluhdU1FKBOeHAZdE5Gy8UklRPEvdrjeasng=w1960-h4012)](https://cricktech.vercel.app/)
+- Machine Learning Models for Diseases:
+  > Various Models were deployed for Alzheimer, Breast Cancer and Brain Tumor diseases.
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBkdZJ7oxGciB_-AOHrdvSuSofCADbPTwZV91oNJlZOoR4vwDK0GuAjYs3pK8vKJET4f7-Nm31JABWFFxJ0rfsHT_PX1g=w1960-h4012)](https://healthhubs.vercel.app//)
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCl5i_ggTc3xLMdwOvVd9c74v4hmTPxCXhPEZN_pKA4TsqsVcqeqRKwLjwluhdU1FKBOeHAZdE5Gy8UklRPEvdrjeasng=w1960-h4012)](https://healthhubs.vercel.app//)
 
--  Score Predictor for T20 and ICC Matches:
-   > Test your cricket instincts with our Score Predictor feature. Predict the outcomes of T20 and ICC matches, challenge your friends, and climb the leaderboard. The excitement of the game is now in your hands.
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDrE7jLM1XTZfrMSDU_vtCusxnxBSJ7evOg7cbb1I8_3fFSUJ26e83d9FiCvgz3zF7OGoEZLejDyvIcu6kkqjQXeV868Q=w1960-h4012)](https://cricktech.vercel.app/)
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCDMSBSf2vju8R4_vSdY_ulQohnHB_biqjPEFeqY8rjK6W1F7rPnfNUdu7uxYRWAxgVD4daI0fISVBvig6JoaURARxaag=w1960-h4012)](https://cricktech.vercel.app/)
+-  Health Reports:
+   > Various Calculators were developed for BMI, Body Fat and BMR index, etc...
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaDrE7jLM1XTZfrMSDU_vtCusxnxBSJ7evOg7cbb1I8_3fFSUJ26e83d9FiCvgz3zF7OGoEZLejDyvIcu6kkqjQXeV868Q=w1960-h4012)](https://healthhubs.vercel.app//)
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCDMSBSf2vju8R4_vSdY_ulQohnHB_biqjPEFeqY8rjK6W1F7rPnfNUdu7uxYRWAxgVD4daI0fISVBvig6JoaURARxaag=w1960-h4012)](https://healthhubs.vercel.app//)
 
-- Player Performance Analysis:
-  > Go beyond the scoreboard. Dive into in-depth player performance analysis, stats, and insights. CrickTech provides a comprehensive view of player achievements, allowing you to appreciate the skills that shape the game.
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCSsQaaPFu_adLpI8TMsyFO4n47IF9NbWULfiqsjsvRCW-laacCa7pr8jJ9m_ifJ1DpIebQOc49lRlzK0AIMeHvkE-UEQ=w1960-h4012)](https://cricktech.vercel.app/)
+- Happy Index Survey:
+  > Happiness survey was developed using several references such as _[World Happiness Index](https://worldhappiness.report/)_ and _[Happy Count Alliance](https://www.happycounts.org/)_.
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCSsQaaPFu_adLpI8TMsyFO4n47IF9NbWULfiqsjsvRCW-laacCa7pr8jJ9m_ifJ1DpIebQOc49lRlzK0AIMeHvkE-UEQ=w1960-h4012)](https://healthhubs.vercel.app//)
 
-- Matches Info:
-  > Stay informed with up-to-the-minute match information. From schedules to results, CrickTech keeps you in the loop, ensuring you never miss a crucial moment. Explore fixtures, track scores, and relish the magic of cricket unfolding in real-time.
-[![CrickTech](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAw346C8SHAfyJsKViiTj-3Ny-qJ8dfuPUnUKY_fUF7Gp7-RY4kqFYTetP1fny_WguhBKay8wfPv36jf_F1g9BRfI4XSQ=w1960-h4012)](https://cricktech.vercel.app/)
+- HealthBots:
+  > A disease sppecific health bots is designed for each diseases such as Alzheimer, Breast Cancer and brain tumor.
+[![HealthHub](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAw346C8SHAfyJsKViiTj-3Ny-qJ8dfuPUnUKY_fUF7Gp7-RY4kqFYTetP1fny_WguhBKay8wfPv36jf_F1g9BRfI4XSQ=w1960-h4012)](https://healthhubs.vercel.app//)
 
 ## Visit Live Site
 
-CrickTech is hosted using Vercel.
+HealthHub is hosted using Vercel.
 
-_[CrickTech](https://cricktech.vercel.app/)_
+_[HealthHub](https://healthhubs.vercel.app/)_
 
 
 ## Run it locally
