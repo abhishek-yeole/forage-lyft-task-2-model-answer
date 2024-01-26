@@ -96,7 +96,7 @@ The ChatBot - HealthBot was built using a free GPT provider - _[gpt4free](https:
 -  Health Reports:
    > Various Calculators were developed for BMI, Body Fat and BMR index, etc...
    
-[![HealthHubReports](https://i.postimg.cc/jS2XrHHZ/Screenshot-2024-01-16-142436.png)](https://healthhubs.vercel.app/reports)
+[![HealthHubReports](https://i.postimg.cc/kX9BFc7m/reports.png)](https://healthhubs.vercel.app/reports)
 
 - Happy Index Survey:
   > Happiness survey was developed using several references such as _[World Happiness Index](https://worldhappiness.report/)_ and _[Happy Count Alliance](https://www.happycounts.org/)_.
