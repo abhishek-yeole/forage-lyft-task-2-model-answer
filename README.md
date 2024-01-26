@@ -64,6 +64,9 @@ The ChatBot - HealthBot was built using a free GPT provider - _[gpt4free](https:
    - The API endpoint for prompt engineering and user query was built using Flask.
    - Then it is connected to the frontend ChatUI by Gradio.
 
+## Routes Architecture (System Diagram)
+[![Routes_healthhub](https://i.postimg.cc/vHX9t1jz/routes-architecture-health.png)](https://healthhubs.vercel.app/user)
+
 ## Features
 
 - Machine Learning Models for Diseases:
